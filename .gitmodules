@@ -4,3 +4,7 @@
 [submodule "survey-app"]
 	path = survey-app
 	url = https://github.com/AmidBidee/survey-app
+
+[submodule "carousel"]
+	path = carousel
+	url = https://github.com/AmidBidee/carousel
