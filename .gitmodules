@@ -1,0 +1,6 @@
+[submodule "amidbidee.webpage.io"]
+	path = amidbidee.webpage.io
+	url = https://github.com/AmidBidee/amidbidee.webpage.io
+[submodule "survey-app"]
+	path = survey-app
+	url = https://github.com/AmidBidee/survey-app
